@@ -1,7 +1,6 @@
 
-speed = 79
 def unsafe?(speed)
-if speed > 60
+  if speed > 60
 	return "true"
 	end
 end
